@@ -1,11 +1,9 @@
 # 2024 WWCode Cloud "Days of Code" Bingo Challenge				
 
-Participating in the Women Who Code Cloud Days of Code Challenge. Check my [2024 WWCode Cloud 'Days of Code' Bingo Challenge Tracker Sheet]()
+Participating in the Women Who Code Cloud Days of Code Challenge. "The WWCode Cloud 'Days of Code' Bingo Challenge includes a fun series of cloud-related tasks and challenges to tackle from January 8th to February 9th, 2024. Winners and prizes will be announced at the end of the challenge period via a virtual awards ceremony on Hopin!"	
 
-"The WWCode Cloud 'Days of Code' Bingo Challenge includes a fun series of cloud-related tasks and challenges to tackle from January 8th to February 9th, 2024.
-
-****Winners and prizes will be announced at the end of the challenge period via a virtual awards ceremony on Hopin!"				
-
+**Check my [2024 WWCode Cloud 'Days of Code' Bingo Challenge Tracker Sheet]()**
+		
 - [x] Fork and use this [tracker](https://github.com/agcdtmr/wwcode-days-of-code-challenge-2024) for the whole coding challenge
 - [x] Attend the Cloud Days of Code Bingo Challenge Launch on Jan 08 at 07:30PM–08:00PM CET or watch the [recording](https://youtu.be/7uhOcPSniIs)
 - [x] Join the WWCode Cloud [Slack (invitation link)](https://join.slack.com/t/wwcodecloud/shared_invite/zt-1ioixiiet-28tflSda49sTjWAJ9zlRTg): #bingo-challenge channel
@@ -25,7 +23,7 @@ Participating in the Women Who Code Cloud Days of Code Challenge. Check my [2024
 - [x] Write an awesome commit message and push your code!
 - [x] Continue writing on your documentation.
 - [x] Share your wins!
-- [x] Help someone on Slack. Give feedback, share resources, be a rubber ducky.
+- [x] [Help](https://github.com/agcdtmr/wwcode-cloud-2024/blob/main/day1-help-c.png) someone on Slack.
 - [x] Confirmation / Proof (Screenshot, Link, etc)
 - [ ] Update [2024 WWCode Cloud 'Days of Code' Bingo Challenge Tracker Sheet](https://docs.google.com/spreadsheets/d/1GhbEkvdU1TL-RMZ2yjGtgaF0XLhgQ4aVgmtY5iWt0TY/edit#gid=0)
 - [x] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
