@@ -14,8 +14,11 @@ Participating in the Women Who Code Cloud Days of Code Challenge. Check my [2024
 # Day 1
 
 - [x] “Days of Code” Registration	Register here: daysofcode.womenwhocode.dev or https://hopin.com/events/wwcode-days-of-code/registration
+![registered](https://github.com/agcdtmr/wwcode-cloud-2024/blob/main/Screenshot%202024-01-09%20at%2009.33.04.png)
 - [x] Bonus - Introduction	Join the WWCode Cloud slack channel and introduce yourself in the #introductions channel?
+![intro](https://github.com/agcdtmr/wwcode-cloud-2024/blob/main/day1-help-c.png)
 - [x] Bonus - Cloudfluencer!	Motivate someone to join the challenge and WWCode Cloud Slack community
+![Cloudfluencer](https://github.com/agcdtmr/wwcode-cloud-2024/blob/main/Screenshot%202024-01-11%20at%2012.00.53.png)
 
 ## Daily goals
 - [x] Complete the cloud challenge of the day
@@ -23,7 +26,7 @@ Participating in the Women Who Code Cloud Days of Code Challenge. Check my [2024
 - [x] Continue writing on your documentation.
 - [x] Share your wins!
 - [x] Help someone on Slack. Give feedback, share resources, be a rubber ducky.
-- [ ] Confirmation / Proof (Screenshot, Link, etc)
+- [x] Confirmation / Proof (Screenshot, Link, etc)
 - [ ] Update [2024 WWCode Cloud 'Days of Code' Bingo Challenge Tracker Sheet](https://docs.google.com/spreadsheets/d/1GhbEkvdU1TL-RMZ2yjGtgaF0XLhgQ4aVgmtY5iWt0TY/edit#gid=0)
 - [x] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
 
