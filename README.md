@@ -4,7 +4,7 @@ Participating in the Women Who Code Cloud Days of Code Challenge. "The WWCode Cl
 
 **Check my [2024 WWCode Cloud 'Days of Code' Bingo Challenge Tracker Sheet]()**
 		
-- [x] Fork and use this [tracker](https://github.com/agcdtmr/wwcode-days-of-code-challenge-2024) for the whole coding challenge
+- [x] Fork and start easy using this [tracker](https://github.com/agcdtmr/wwcode-days-of-code-challenge-2024)
 - [x] Attend the Cloud Days of Code Bingo Challenge Launch on Jan 08 at 07:30PM–08:00PM CET or watch the [recording](https://youtu.be/7uhOcPSniIs)
 - [x] Join the WWCode Cloud [Slack (invitation link)](https://join.slack.com/t/wwcodecloud/shared_invite/zt-1ioixiiet-28tflSda49sTjWAJ9zlRTg): #bingo-challenge channel
 - [ ] Make a copy of [2024 WWCode Cloud 'Days of Code' Bingo Challenge Tracker Sheet](https://docs.google.com/spreadsheets/d/1GhbEkvdU1TL-RMZ2yjGtgaF0XLhgQ4aVgmtY5iWt0TY/edit#gid=0)
