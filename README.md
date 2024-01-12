@@ -32,3 +32,25 @@ Participating in the Women Who Code Cloud Days of Code Challenge. "The WWCode Cl
 - [ ] Connect and follow a WWCode volunteer or member on LinkedIn. Endorse their skills or if you worked on a project together write recommendations!
 - [ ] (Optional) Reach out to one woman in tech. Use Hopin or Slack channel to say hi to new network.
 - [x] Send appreciation message to a WWCode volunteer or member. See photo above
+
+# Day 2
+
+- [x] Virtual Coffee Date: Have a virtual coffee date with another WWCode Cloud community member. Post an invitation or reach out to a member in the #introductions or #bingo-challenge channel.
+
+## Daily goals
+
+- [ ] Complete the cloud challenge of the day
+![day2](https://github.com/agcdtmr/wwcode-days-of-code-challenge-2024/blob/main/Screenshot%202024-01-12%20at%2010.25.41.png)
+- [x] Write an awesome commit message and push your code!
+- [x] Continue writing on your documentation.
+- [ ] Share your wins!
+- [ ] Help someone on Slack. Give feedback, share resources, be a rubber ducky, help in any way, in any form.
+- [x] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
+
+## Weekly goals
+
+- [ ] Connect and follow a WWCode volunteer or member on LinkedIn. Endorse their skills or if you worked on a project together write recommendations!
+- [x] (Optional) Reach out to one woman in tech. Use Hopin or Slack channel to say hi to new network.
+- [ ] Send appreciation message to a WWCode volunteer or member.
+- [ ] Participate in a community coding challenge or project group. Or ask on slack to do the day or two challenges together.
+
