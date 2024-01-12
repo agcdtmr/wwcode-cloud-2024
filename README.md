@@ -9,7 +9,7 @@ Participating in the Women Who Code Cloud Days of Code Challenge. "The WWCode Cl
 - [x] Join the WWCode Cloud [Slack (invitation link)](https://join.slack.com/t/wwcodecloud/shared_invite/zt-1ioixiiet-28tflSda49sTjWAJ9zlRTg): #bingo-challenge channel
 - [ ] Make a copy of [2024 WWCode Cloud 'Days of Code' Bingo Challenge Tracker Sheet](https://docs.google.com/spreadsheets/d/1GhbEkvdU1TL-RMZ2yjGtgaF0XLhgQ4aVgmtY5iWt0TY/edit#gid=0)
 
-# Day 1
+# Day 1 “Days of Code” Registration
 
 - [x] “Days of Code” Registration	Register here: daysofcode.womenwhocode.dev or https://hopin.com/events/wwcode-days-of-code/registration
 ![registered](https://github.com/agcdtmr/wwcode-cloud-2024/blob/main/Screenshot%202024-01-09%20at%2009.33.04.png)
@@ -33,18 +33,20 @@ Participating in the Women Who Code Cloud Days of Code Challenge. "The WWCode Cl
 - [ ] (Optional) Reach out to one woman in tech. Use Hopin or Slack channel to say hi to new network.
 - [x] Send appreciation message to a WWCode volunteer or member. See photo above
 
-# Day 2
+# Day 2 Virtual Coffee Date
 
-- [x] Virtual Coffee Date: Have a virtual coffee date with another WWCode Cloud community member. Post an invitation or reach out to a member in the #introductions or #bingo-challenge channel.
+- [ ] Have a virtual coffee date with another WWCode Cloud community member.
+- [x] Post an invitation or reach out to a member in the #introductions or #bingo-challenge channel.
+![day2](https://github.com/agcdtmr/wwcode-days-of-code-challenge-2024/blob/main/Screenshot%202024-01-12%20at%2010.25.41.png)
 
 ## Daily goals
 
 - [ ] Complete the cloud challenge of the day
-![day2](https://github.com/agcdtmr/wwcode-days-of-code-challenge-2024/blob/main/Screenshot%202024-01-12%20at%2010.25.41.png)
 - [x] Write an awesome commit message and push your code!
 - [x] Continue writing on your documentation.
 - [ ] Share your wins!
-- [ ] Help someone on Slack. Give feedback, share resources, be a rubber ducky, help in any way, in any form.
+- [x] Help someone on Slack. Give feedback, share resources, be a rubber ducky, help in any way, in any form.
+![help-day2](https://github.com/agcdtmr/wwcode-days-of-code-challenge-2024/blob/main/Screenshot%202024-01-12%20at%2010.46.32.png)
 - [x] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
 
 ## Weekly goals
