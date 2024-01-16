@@ -60,9 +60,9 @@ Participating in the Women Who Code Cloud Days of Code Challenge. "The WWCode Cl
 
 - [x] Follow WWCode Cloud LinkedIn Page.
 ![linkedin](https://github.com/agcdtmr/wwcode-cloud-2024/blob/main/Screenshot%202024-01-16%20at%2009.48.15.png)
-- [ ] Follow WWCode Cloud Instagram (NO Account)
-- [ ] Follow WWCode Cloud Twitter (NO Account)
-- [ ] Follow WWCode Cloud Facebook (NO Account)
+- [ ] Bonus - Follow WWCode Cloud Instagram (NO Account)
+- [ ] Bonus - Follow WWCode Cloud Twitter (NO Account)
+- [ ] Bonus - Follow WWCode Cloud Facebook (NO Account)
 
 
 ## Daily goals
