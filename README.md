@@ -56,12 +56,18 @@ Participating in the Women Who Code Cloud Days of Code Challenge. "The WWCode Cl
 - [ ] Send appreciation message to a WWCode volunteer or member.
 - [ ] Participate in a community coding challenge or project group. Or ask on slack to do the day or two challenges together.
 
-# Day 5 
+# Day 5 Follow Fest! 
+
+- [x] Follow WWCode Cloud LinkedIn Page.
+![linkedin](https://github.com/agcdtmr/wwcode-cloud-2024/blob/main/Screenshot%202024-01-16%20at%2009.48.15.png)
+- [ ] Follow WWCode Cloud Instagram (NO Account)
+- [ ] Follow WWCode Cloud Twitter (NO Account)
+- [ ] Follow WWCode Cloud Facebook (NO Account)
+
 
 ## Daily goals
 
 - [x] Complete the challenge of the day.
-![linkedin](https://github.com/agcdtmr/wwcode-cloud-2024/blob/main/Screenshot%202024-01-16%20at%2009.48.15.png)
 - [x] Write an awesome commit message and push your code!
 - [x] Continue writing on your documentation.
 - [x] Share your wins!
